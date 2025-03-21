@@ -10,11 +10,7 @@ Follow these steps to set up the project locally:
 ```bash
 MONGO=your_mongo_uri
 ```
-### 2. Install dependencies
-```bash
-npm i 
-```
-### 3. Build and start the web app
+### 2. Build and start the web app
 ```bash
 npm run build
 npm run start
